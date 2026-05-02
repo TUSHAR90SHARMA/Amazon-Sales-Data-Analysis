@@ -85,6 +85,10 @@ Indicates strong demand in southern and western regions of India
 ✔️ State-wise Order Distribution
 ✔️ Interactive Date Filter
 
+📷 Dashboard Preview
+
+![Dashboard](Image/Dashboard.png)
+
 🚀 How to Use
 Download the repository
 Open the Excel file for raw data
